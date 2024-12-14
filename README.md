@@ -18,10 +18,6 @@ A comprehensive **Student Fee Tracker** app built using **React**. This applicat
 - **Styling**: CSS (or any framework/library you used, e.g., Tailwind CSS).  
 - **Storage**: LocalStorage or backend database (e.g., MongoDB via Node.js if integrated).  
 
-## 📸 Demo  
-
-![App Screenshot](screenshot.png)  
-*(Add a screenshot or GIF of your app in action here.)*
 
 ## 🔧 Installation  
 
